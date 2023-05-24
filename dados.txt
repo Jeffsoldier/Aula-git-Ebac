@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Jefferson Manoel dos Santos
+-Profissão: Analista de Suporte
+-Cidade: Osasco
+-O que faz nas horas vaga: Assisto Séries e Faço Improviso
+-Feedback sobre o curso Qualidade de Software: Muito bom, aulas de qualidade e bem práticas
+-Feedback sobre a plataforma de estudo da EBAC: muito intuitiva, fácil de usar 
+
+Obrigado!!!
+
+
